@@ -22,9 +22,9 @@ The main goal is to predict oil reserves in three regions, estimate the expected
 ## 📂 Repository Structure
 
 ├── notebooks/
-│ └── oil_well_location_selection.ipynb # main Jupyter Notebook with the solution
-├── requirements.txt # project dependencies
-└── README.md # project documentation
+│   └── oil_well_location_selection.ipynb   # main Jupyter Notebook with the solution
+├── requirements.txt                         # project dependencies
+└── README.md                                # project documentation
 
 ## ⚙️ Installation
 Clone the repository and install the dependencies:
